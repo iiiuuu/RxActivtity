@@ -2,4 +2,5 @@
     <string name="app_name">HandlerActivity</string>
     <string name="test1">test1</string>
     <string name="test2">test2</string>
+    <string name="start">start</string>
 </resources>
